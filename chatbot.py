@@ -1,5 +1,5 @@
 """
-ARTI 409 — Simple AI Chatbot
+your course — Simple AI Chatbot
 A minimal command-line chatbot powered by Anthropic's Claude API.
 
 This file is intentionally small and heavily commented. The point of this
@@ -47,7 +47,7 @@ def main() -> None:
     conversation = []
 
     print("=" * 60)
-    print("  ARTI 409 AI Chatbot   (type 'quit' to exit)")
+    print("  your course AI Chatbot   (type 'quit' to exit)")
     print("=" * 60)
 
     while True:
